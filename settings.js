@@ -22,7 +22,7 @@ global.themeemoji = '🤖'
 global.creator = "916909004540@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
 global.ownerNumber = ["916909004540@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
-global.prefixc = ['/'] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
+global.prefixc = [''] // Prefix a tana hman theih loh tur symbolise a awm nuala, i bot a work a lo a nih chuan i thlak mai dawn nia
 global.sessionName = 'session'
 
 // Sticker Pack Name
@@ -30,10 +30,10 @@ global.packname = "Sticker By Celine"
 global.author = "Celine"
 
 //BUTTON INPUT 
-global.buttonyt = "SUBSCRIBE"
-global.buttonyturl = "https://youtube.com/@HBMods_Channel"
-global.buttonig = "Follow Us:)"
-global.buttonigurl = "https://www.instagram.com/herbert_suantak2"
+global.buttonyt = "Instagram 👻"
+global.buttonyturl = "https://www.instagram.com/akari_watanabe7?igsh=aWtqcHhyNGhsOXg1"
+global.buttonig = "Facebook 🤙"
+global.buttonigurl = "https://www.facebook.com/profile.php?id=100075882169609&mibextid=ZbWKwL"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
 //messages
